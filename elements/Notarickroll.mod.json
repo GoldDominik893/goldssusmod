@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "not_a_rickroll",
+    "name": "Not a rickroll disc",
+    "description": "not a rickroll",
+    "creativeTab": {
+      "value": "CUSTOM:Mod"
+    },
+    "music": {
+      "value": "CUSTOM:not_a_rickroll"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

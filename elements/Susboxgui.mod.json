@@ -1,0 +1,77 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 174,
+    "height": 92,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Sus Box menu",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Sus Box menu",
+          "x": 132,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Play Among us drip music",
+          "onClick": {
+            "name": "CmddripmusicCommandExecuted"
+          },
+          "width": 145,
+          "height": 20,
+          "name": "Play Among us drip music",
+          "x": 132,
+          "y": 92
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Play Rickroll",
+          "onClick": {
+            "name": "CmdrickrollCommandExecuted"
+          },
+          "width": 90,
+          "height": 20,
+          "name": "Play Rickroll",
+          "x": 132,
+          "y": 115
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Stop Sounds",
+          "onClick": {
+            "name": "CdmstopallsoundsCommandExecuted"
+          },
+          "width": 80,
+          "height": 20,
+          "name": "Stop Sounds",
+          "x": 132,
+          "y": 138
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Sussy"
+      },
+      {
+        "value": "basalt_deltas"
+      },
+      {
+        "value": "CUSTOM:Sussy"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Susblock"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:Suswater"
+    },
+    "airColor": {
+      "value": -458752,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "BED_EXPLODES",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "CUSTOM:Susblock"
+    },
+    "portalParticles": {
+      "value": "ENCHANTMENT_TABLE"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "CUSTOM:aamogus"
+    },
+    "igniterName": "Sus Dimension Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:Mod"
+    },
+    "texture": "susportaligniter",
+    "portalTexture": "sidesusblock",
+    "enablePortal": true
+  }
+}

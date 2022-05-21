@@ -1,0 +1,28 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "happy_meal",
+    "customModelName": "Normal",
+    "name": "Happy meal",
+    "rarity": "RARE",
+    "specialInfo": [
+      "happy meal"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Mod"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 12,
+    "saturation": 4.0,
+    "eatingSpeed": 128,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,900 @@
+{
+  "mod_elements": [
+    {
+      "name": "Amogus",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amogus"
+    },
+    {
+      "name": "Mod",
+      "type": "tab",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mod"
+    },
+    {
+      "name": "Sussy",
+      "type": "biome",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sussy"
+    },
+    {
+      "name": "Happymeal",
+      "type": "food",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "happymeal"
+    },
+    {
+      "name": "Fries",
+      "type": "food",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fries"
+    },
+    {
+      "name": "Happymealrecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "happymealrecipe"
+    },
+    {
+      "name": "CmdCommandExecuted",
+      "type": "procedure",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cmd_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cmd",
+      "type": "command",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cmd"
+    },
+    {
+      "name": "Susblock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "susblock"
+    },
+    {
+      "name": "Susingot",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "susingot"
+    },
+    {
+      "name": "Susblockcraft",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "susblockcraft"
+    },
+    {
+      "name": "Susingotcraft",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "susingotcraft"
+    },
+    {
+      "name": "Rawfries",
+      "type": "food",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawfries"
+    },
+    {
+      "name": "Rawfriescook",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawfriescook"
+    },
+    {
+      "name": "Burger",
+      "type": "food",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "burger"
+    },
+    {
+      "name": "Cheesesus",
+      "type": "food",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cheesesus"
+    },
+    {
+      "name": "Cheesecraft",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cheesecraft"
+    },
+    {
+      "name": "Lettuce",
+      "type": "food",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lettuce"
+    },
+    {
+      "name": "Lettuceplant",
+      "type": "plant",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lettuceplant"
+    },
+    {
+      "name": "Tomato",
+      "type": "food",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tomato"
+    },
+    {
+      "name": "Tomatoplant",
+      "type": "plant",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tomatoplant"
+    },
+    {
+      "name": "Burgerrecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "burgerrecipe"
+    },
+    {
+      "name": "Credits",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "credits"
+    },
+    {
+      "name": "Notarickroll",
+      "type": "musicdisc",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "notarickroll"
+    },
+    {
+      "name": "Susdimension",
+      "type": "dimension",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "susdimension",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Suswater",
+      "type": "fluid",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "suswater",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "Suseffect",
+      "type": "potioneffect",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "suseffect"
+    },
+    {
+      "name": "Potionofsus",
+      "type": "potion",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "potionofsus"
+    },
+    {
+      "name": "SustoolsPickaxe",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sustools_pickaxe"
+    },
+    {
+      "name": "SustoolsAxe",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sustools_axe"
+    },
+    {
+      "name": "SustoolsSword",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sustools_sword"
+    },
+    {
+      "name": "SustoolsShovel",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sustools_shovel"
+    },
+    {
+      "name": "SustoolsHoe",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sustools_hoe"
+    },
+    {
+      "name": "SustoolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sustools_pickaxe_recipe"
+    },
+    {
+      "name": "SustoolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sustools_axe_recipe"
+    },
+    {
+      "name": "SustoolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sustools_sword_recipe"
+    },
+    {
+      "name": "SustoolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sustools_shovel_recipe"
+    },
+    {
+      "name": "SustoolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sustools_hoe_recipe"
+    },
+    {
+      "name": "SusarmorArmor",
+      "type": "armor",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "susarmor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "SusarmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "susarmor_armor_helmet_recipe"
+    },
+    {
+      "name": "SusarmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "susarmor_armor_body_recipe"
+    },
+    {
+      "name": "SusarmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "susarmor_armor_leggings_recipe"
+    },
+    {
+      "name": "SusarmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "susarmor_armor_boots_recipe"
+    },
+    {
+      "name": "Crewmate",
+      "type": "livingentity",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crewmate"
+    },
+    {
+      "name": "Susgui",
+      "type": "gui",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "susgui"
+    },
+    {
+      "name": "CmddripmusicCommandExecuted",
+      "type": "procedure",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cmddripmusic_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cmddripmusic",
+      "type": "command",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cmddripmusic"
+    },
+    {
+      "name": "CmdrickrollCommandExecuted",
+      "type": "procedure",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cmdrickroll_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CdmstopallsoundsCommandExecuted",
+      "type": "procedure",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cdmstopallsounds_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Susboxgui",
+      "type": "gui",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "susboxgui"
+    },
+    {
+      "name": "Susbox",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "susbox"
+    },
+    {
+      "name": "Imposter",
+      "type": "achievement",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "imposter"
+    },
+    {
+      "name": "Craftsusbox",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftsusbox"
+    },
+    {
+      "name": "Wasd",
+      "type": "overlay",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "susmodoverlay"
+    },
+    {
+      "name": "SpawnCrewmateCommandExecuted",
+      "type": "procedure",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spawn_crewmate_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SpawnCrewmate",
+      "type": "command",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spawn_crewmate"
+    },
+    {
+      "name": "Suspainting",
+      "type": "painting",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "suspainting"
+    },
+    {
+      "name": "SusStairs",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sus_stairs"
+    },
+    {
+      "name": "Susslab",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "susslab"
+    },
+    {
+      "name": "Suswindow",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "suswindow"
+    },
+    {
+      "name": "Susglassblock",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "susglassblock"
+    },
+    {
+      "name": "Slipperyblockofsus",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slipperyblockofsus"
+    },
+    {
+      "name": "Suspotion",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "suspotion"
+    },
+    {
+      "name": "Custommenuscreen",
+      "type": "overlay",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custommenuscreen"
+    },
+    {
+      "name": "Bullet",
+      "type": "item",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bullet"
+    },
+    {
+      "name": "Gun",
+      "type": "rangeditem",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gun"
+    },
+    {
+      "name": "Bulletrec",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bulletrec"
+    },
+    {
+      "name": "Gunrec",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gunrec"
+    },
+    {
+      "name": "Slipperyblockofsusrecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slipperyblockofsusrecipe"
+    },
+    {
+      "name": "Susnugget",
+      "type": "item",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "susnugget"
+    },
+    {
+      "name": "Susnuggetrecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "susnuggetrecipe"
+    },
+    {
+      "name": "Suschestgui",
+      "type": "gui",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "suschestgui"
+    },
+    {
+      "name": "Suschest",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "suschest"
+    },
+    {
+      "name": "Suschestcraftingrecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "suschestcraftingrecipe"
+    },
+    {
+      "name": "MassStorage",
+      "type": "achievement",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mass_storage"
+    },
+    {
+      "name": "SusParticles",
+      "type": "particle",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sus_particles"
+    },
+    {
+      "name": "BoomCommandExecuted",
+      "type": "procedure",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boom_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "cmdparams",
+            "type": "map"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Boom",
+      "type": "command",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boom"
+    },
+    {
+      "name": "Warnng",
+      "type": "painting",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warnng"
+    },
+    {
+      "name": "TomatoplantPlantDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tomatoplant_plant_destroyed_by_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "aamogus",
+      "files": [
+        "yt1s.com_-_among_us_trap_remix"
+      ],
+      "category": "record",
+      "subtitle": "amogus"
+    },
+    {
+      "name": "not_a_rickroll",
+      "files": [
+        "rickroll"
+      ],
+      "category": "record",
+      "subtitle": "not_a_rickroll"
+    },
+    {
+      "name": "gunshot",
+      "files": [
+        "realistic_gunshot_sound_effect"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.golds_mod_lol.credits": "Credits: GoldDominik893#0001",
+      "item.golds_mod_lol.sustools_hoe": "Sus Hoe",
+      "item.golds_mod_lol.susdimension": "Sus Dimension Portal Igniter",
+      "item.golds_mod_lol.sustools_sword": "Sus Sword",
+      "item.golds_mod_lol.cheesesus": "Cheesesus",
+      "item.minecraft.tipped_arrow.effect.potionofsus": "Arrow of Sus",
+      "item.golds_mod_lol.susnugget": "Sus nugget",
+      "item.golds_mod_lol.amogus.desc": "amogus drip",
+      "effect.golds_mod_lol.suseffect": "Susness",
+      "advancements.mass_storage.title": "Mass Storage",
+      "item.minecraft.lingering_potion.effect.potionofsus": "Lingering Potion of Sus",
+      "item.golds_mod_lol.lettuce": "Lettuce",
+      "subtitles.not_a_rickroll": "not_a_rickroll",
+      "item.golds_mod_lol.notarickroll.desc": "not a rickroll",
+      "item.golds_mod_lol.sustools_axe": "Sus Axe",
+      "advancements.imposter.descr": "Enter the sus dimension",
+      "fluid.golds_mod_lol.suswater": "Sus water",
+      "block.golds_mod_lol.sus_stairs": "Sus Stairs",
+      "block.golds_mod_lol.suswater": "Sus water",
+      "item.golds_mod_lol.susingot": "Susingot",
+      "item.golds_mod_lol.sustools_pickaxe": "Sus Pickaxe",
+      "block.golds_mod_lol.suschest": "Sus chest",
+      "entity.golds_mod_lol.crewmate": "Crewmate",
+      "block.golds_mod_lol.susglassblock": "Sus glass block",
+      "item.golds_mod_lol.notarickroll": "Not a rickroll disc",
+      "item.golds_mod_lol.rawfries": "Rawfries",
+      "block.golds_mod_lol.slipperyblockofsus": "Slippery block of sus",
+      "item.golds_mod_lol.susarmor_armor_chestplate": "Sus Chestplate",
+      "effect.suseffect": "Susness",
+      "item.golds_mod_lol.crewmate_spawn_egg": "Crewmate Spawn Egg",
+      "subtitles.gunshot": "",
+      "itemGroup.tabmod": "Gold\u0027s Sus Mod",
+      "item.minecraft.splash_potion.effect.potionofsus": "Splash Potion of Sus",
+      "block.golds_mod_lol.tomatoplant": "Tomatoplant",
+      "item.golds_mod_lol.suswater_bucket": "Suswater Bucket",
+      "item.golds_mod_lol.susarmor_armor_leggings": "Sus Leggings",
+      "item.golds_mod_lol.sustools_shovel": "Sus Shovel",
+      "block.golds_mod_lol.susslab": "Sus slab",
+      "item.golds_mod_lol.fries": "Fries",
+      "subtitles.aamogus": "amogus",
+      "block.golds_mod_lol.lettuceplant": "Lettuceplant",
+      "block.golds_mod_lol.suswindow": "Sus glass pane",
+      "advancements.mass_storage.descr": "Craft a Sus Chest",
+      "advancements.imposter.title": "Imposter",
+      "item.golds_mod_lol.amogus": "Amogus",
+      "item.golds_mod_lol.susarmor_armor_boots": "Sus Boots",
+      "item.golds_mod_lol.tomato": "Tomato",
+      "item.golds_mod_lol.happymeal": "Happy meal",
+      "item.golds_mod_lol.bullet": "Bullet",
+      "item.minecraft.potion.effect.potionofsus": "Potion of Sus",
+      "item.golds_mod_lol.susarmor_armor_helmet": "Sus Helmet",
+      "block.golds_mod_lol.susbox": "Sus Box",
+      "item.golds_mod_lol.gun": "Gun",
+      "block.golds_mod_lol.susblock": "Susblock",
+      "biome.golds_mod_lol.sussy": "Sussy",
+      "item.golds_mod_lol.burger": "Burger"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "golds_mod_lol",
+    "modName": "Golds mod lol",
+    "version": "1.4.5",
+    "description": "Sus mod ",
+    "author": "Domin",
+    "websiteURL": "https://github.com/GoldDominik893/goldssusmod",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "suus",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Mod Creator: GoldDominik893",
+    "modElementsPackage": "net.mcreator.goldsmodlol",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

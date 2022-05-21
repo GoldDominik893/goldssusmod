@@ -1,0 +1,108 @@
+{
+  "_fv": 24,
+  "_type": "overlay",
+  "definition": {
+    "priority": "LOWEST",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "accessability.png",
+          "use1Xscale": true,
+          "name": "accessability.png",
+          "x": 317,
+          "y": 190
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "globeicon.png",
+          "use1Xscale": true,
+          "name": "globeicon.png",
+          "x": 90,
+          "y": 188
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "mods.png",
+          "use1Xscale": true,
+          "name": "mods.png",
+          "x": 112,
+          "y": 155
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "multiplayer.png",
+          "use1Xscale": true,
+          "name": "multiplayer.png",
+          "x": 113,
+          "y": 133
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "quitgame.png",
+          "use1Xscale": true,
+          "name": "quitgame.png",
+          "x": 217,
+          "y": 188
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "singleplayer.png",
+          "use1Xscale": true,
+          "name": "singleplayer.png",
+          "x": 112,
+          "y": 109
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "options.png",
+          "use1Xscale": true,
+          "name": "options.png",
+          "x": 113,
+          "y": 189
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "realms.png",
+          "use1Xscale": true,
+          "name": "realms.png",
+          "x": 215,
+          "y": 156
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "susmod.png",
+          "use1Xscale": true,
+          "name": "susmod.png",
+          "x": 87,
+          "y": -78
+        }
+      }
+    ],
+    "baseTexture": "susbox1.png",
+    "overlayTarget": "MainMenu",
+    "gridSettings": {
+      "sx": 1,
+      "sy": 1,
+      "ox": 9,
+      "oy": 1,
+      "snapOnGrid": false
+    }
+  }
+}

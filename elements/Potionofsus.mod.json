@@ -1,0 +1,21 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Sus",
+    "splashName": "Splash Potion of Sus",
+    "lingeringName": "Lingering Potion of Sus",
+    "arrowName": "Arrow of Sus",
+    "effects": [
+      {
+        "effect": {
+          "value": "CUSTOM:Suseffect"
+        },
+        "duration": 3600,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

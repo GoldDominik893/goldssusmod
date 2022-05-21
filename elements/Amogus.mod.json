@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "amogusdisc",
+    "name": "Amogus",
+    "description": "amogus drip",
+    "creativeTab": {
+      "value": "CUSTOM:Mod"
+    },
+    "music": {
+      "value": "CUSTOM:aamogus"
+    },
+    "specialInfo": [
+      "among us drip"
+    ],
+    "hasGlow": true
+  }
+}
